@@ -10,6 +10,7 @@ namespace TailSpin.SpaceGame.Web
 {
     public class Startup
     {
+        // comment added
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
